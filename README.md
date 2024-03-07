@@ -8,7 +8,7 @@ Full Stack Web Developer
 
 *   🌍  I'm based in Bangalore, India
 *   ✉️  You can contact me at [pradeepbhangi.tech@gmail.com](mailto:pradeepbhangi.tech@gmail.com)
-*   🤝  I'm open to collaborating on Next.Js, React, JavaScript, Node, Express, MongoDb, or anything related to Web Development!
+*   🤝  I'm open to collaborating on Next.js, React.js, JavaScript, Node.js, Express, MongoDb, or anything related to Web Development!
 
 ### Skills
 
