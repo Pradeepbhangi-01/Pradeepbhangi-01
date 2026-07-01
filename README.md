@@ -3,7 +3,7 @@ Hi 👋 My name is Pradeep Bhangi
 ===============================
 ![GitHub Views](https://komarev.com/ghpvc/?username=pradeepbhangi-01)
 
-Full Stack Web Developer
+Full Stack Developer
 
 
 *   🌍  I'm based in Bangalore, India
